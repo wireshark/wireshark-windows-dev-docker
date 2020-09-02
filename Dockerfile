@@ -77,5 +77,3 @@ RUN choco install -y python3 && `
 
 # Expose the Qt directory.
 VOLUME C:\Qt
-
-USER ContainerUser
